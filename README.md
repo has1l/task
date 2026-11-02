@@ -14,4 +14,4 @@ cd ~/CU && claude --add-dir ~/task
 
 | № | Задание | Ветка в CU | Миграция | Статус |
 |---|---|---|---|---|
-| 001 | [Распознавание лиц на сайте](tasks/001-face-recognition.md) | `feat/face-recognition` | 0029 | на проверке |
+| 001 | [Распознавание лиц на сайте](tasks/001-face-recognition.md) | `feat/face-recognition` | 0029 | принято |
